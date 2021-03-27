@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @razvanvalca
+- 👀 I’m interested in Software/Infra Architecture and ML
+- 📫 DM me at razvan@azasoft.eu
